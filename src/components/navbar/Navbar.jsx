@@ -30,7 +30,7 @@ export default function Navbar() {
         <div className="md:hidden px-4 pb-4 space-y-2 bg-[#fff0f5]">
           <a href="/" className="block text-[#6d2e46] hover:text-white">Inicio</a>
           <a href="#nosotros" className="block text-[#6d2e46] hover:text-white">Nosotros</a>
-          <a href="#productos" className="block text-[#6d2e46] hover:text-white">Productos</a>
+          <a href="/productos" className="block text-[#6d2e46] hover:text-white">Productos</a>
           <a href="#contacto" className="block text-[#6d2e46] hover:text-white">Contacto</a>
         </div>
       )}
