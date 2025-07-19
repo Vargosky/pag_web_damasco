@@ -1,0 +1,74 @@
+[
+  {
+    "nombre": "Torta de Milhojas",
+    "descripcion": "Clásica milhojas con manjar casero y crema.",
+    "precio": 18000,
+    "imagen": "/img/milhojas.jpg"
+  },
+  {
+    "nombre": "Kuchen de Frambuesa",
+    "descripcion": "Masa suave con frambuesas frescas y crumble.",
+    "precio": 12000,
+    "imagen": "/img/kuchen.jpg"
+  },
+  {
+    "nombre": "Torta Tres Leches",
+    "descripcion": "Bizcocho esponjoso bañado en leches con merengue.",
+    "precio": 16000,
+    "imagen": "/img/tresleches.jpg"
+  },
+  {
+    "nombre": "Torta Selva Negra",
+    "descripcion": "Bizcocho de chocolate con cerezas y crema chantilly.",
+    "precio": 17500,
+    "imagen": "/img/selvanegra.jpg"
+  },
+  {
+    "nombre": "Tarta de Manzana",
+    "descripcion": "Base de mantequilla con relleno de manzanas especiadas.",
+    "precio": 11000,
+    "imagen": "/img/tartamanzana.jpg"
+  },
+  {
+    "nombre": "Cheesecake de Maracuyá",
+    "descripcion": "Cremoso pastel de queso con salsa de maracuyá natural.",
+    "precio": 14000,
+    "imagen": "/img/cheesecake.jpg"
+  },
+  {
+    "nombre": "Pie de Limón",
+    "descripcion": "Base crocante, relleno suave de limón y merengue flameado.",
+    "precio": 13000,
+    "imagen": "/img/pielimon.jpg"
+  },
+  {
+    "nombre": "Brazo de Reina",
+    "descripcion": "Pionono enrollado con manjar casero, espolvoreado con azúcar flor.",
+    "precio": 9500,
+    "imagen": "/img/brazo.jpg"
+  },
+  {
+    "nombre": "Torta Panqueque Naranja",
+    "descripcion": "Capas de panqueque delgado con manjar y mermelada de naranja.",
+    "precio": 18500,
+    "imagen": "/img/panquequenaranja.jpg"
+  },
+  {
+    "nombre": "Torta Moka",
+    "descripcion": "Delicado sabor a café, bizcocho húmedo con crema moka.",
+    "precio": 16500,
+    "imagen": "/img/moka.jpg"
+  },
+  {
+    "nombre": "Pastel de Hojaldre",
+    "descripcion": "Capas crujientes con relleno de crema pastelera.",
+    "precio": 10000,
+    "imagen": "/img/hojaldre.jpg"
+  },
+  {
+    "nombre": "Brownies Caseros",
+    "descripcion": "Porciones individuales de brownie húmedo con nuez.",
+    "precio": 3000,
+    "imagen": "/img/brownie.jpg"
+  }
+]

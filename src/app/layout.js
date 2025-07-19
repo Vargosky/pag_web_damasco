@@ -1,5 +1,13 @@
 import { Geist, Geist_Mono } from "next/font/google";
+import { Playfair_Display } from 'next/font/google';
 import "./globals.css";
+import Navbar from "../components/navbar/Navbar";
+
+const playfair = Playfair_Display({
+  subsets: ['latin'],
+  weight: ['400', '700'],
+  display: 'swap',
+});
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -20,8 +28,9 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
+        className={`${playfair.className} ${playfair.className} antialiased`}
       >
+        <Navbar />
         {children}
       </body>
     </html>
