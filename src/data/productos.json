@@ -1,86 +1,184 @@
 [
   {
-    "nombre": "Torta de Milhojas",
-    "descripcion": "Clásica milhojas con manjar casero y crema.",
-    "precio": 18000,
-    "imagen": "/img/milhojas.jpg",
+    "nombre": "Torta Trozo",
+    "descripcion": "Porción individual de cualquiera de nuestras tortas.",
+    "precio": 2500,
+    "imagen": "/img/trozotorta.jpg",
     "tipo": "Torta"
   },
   {
-    "nombre": "Kuchen de Frambuesa",
-    "descripcion": "Masa suave con frambuesas frescas y crumble.",
-    "precio": 12000,
-    "imagen": "/img/kuchen.jpg",
-    "tipo": "Kuchen"
-  },
-  {
-    "nombre": "Torta Tres Leches",
-    "descripcion": "Bizcocho esponjoso bañado en leches con merengue.",
-    "precio": 16000,
-    "imagen": "/img/tresleches.jpg",
+    "nombre": "Torta Panqueque",
+    "descripcion": "Capas de panqueque rellenas con manjar y crema.",
+    "precio": 25000,
+    "imagen": "/img/panqueque.jpg",
     "tipo": "Torta"
   },
   {
-    "nombre": "Torta Selva Negra",
-    "descripcion": "Bizcocho de chocolate con cerezas y crema chantilly.",
-    "precio": 17500,
-    "imagen": "/img/selvanegra.jpg",
+    "nombre": "Torta Trufa",
+    "descripcion": "Bizcocho húmedo con ganache de chocolate.",
+    "precio": 25000,
+    "imagen": "/img/trufa.jpg",
     "tipo": "Torta"
   },
   {
-    "nombre": "Tarta de Manzana",
-    "descripcion": "Base de mantequilla con relleno de manzanas especiadas.",
-    "precio": 11000,
-    "imagen": "/img/tartamanzana.jpg",
-    "tipo": "Pastel"
+    "nombre": "Torta Bizcocho",
+    "descripcion": "Bizcocho esponjoso con relleno a elección.",
+    "precio": 25000,
+    "imagen": "/img/bizcocho.jpg",
+    "tipo": "Torta"
   },
   {
-    "nombre": "Cheesecake de Maracuyá",
-    "descripcion": "Cremoso pastel de queso con salsa de maracuyá natural.",
-    "precio": 14000,
-    "imagen": "/img/cheesecake.jpg",
-    "tipo": "Cheesecake"
+    "nombre": "Torta Merengue Helada",
+    "descripcion": "Helado artesanal con merengue crujiente.",
+    "precio": 30000,
+    "imagen": "/img/merenguehelado.jpg",
+    "tipo": "Torta"
   },
   {
-    "nombre": "Pie de Limón",
-    "descripcion": "Base crocante, relleno suave de limón y merengue flameado.",
-    "precio": 13000,
+    "nombre": "Torta Pompadour",
+    "descripcion": "Torta especialidad de la casa.",
+    "precio": 30000,
+    "imagen": "/img/pompadour.jpg",
+    "tipo": "Torta"
+  },
+  {
+    "nombre": "Torta Hoja",
+    "descripcion": "Capas de masa hoja con manjar.",
+    "precio": 30000,
+    "imagen": "/img/hoja.jpg",
+    "tipo": "Torta"
+  },
+  {
+    "nombre": "Torta Amor",
+    "descripcion": "Una mezcla especial de nuestros mejores sabores.",
+    "precio": 30000,
+    "imagen": "/img/amor.jpg",
+    "tipo": "Torta"
+  },
+  {
+    "nombre": "Pastel Individual Milhoja",
+    "descripcion": "Porción individual de milhoja con manjar.",
+    "precio": 2400,
+    "imagen": "/img/mini_milhoja.jpg",
+    "tipo": "Pastel Individual"
+  },
+  {
+    "nombre": "Pastel Individual Bizcocho",
+    "descripcion": "Porción individual de torta de bizcocho.",
+    "precio": 2400,
+    "imagen": "/img/mini_bizcocho.jpg",
+    "tipo": "Pastel Individual"
+  },
+  {
+    "nombre": "Pastel Individual Panqueque",
+    "descripcion": "Porción individual de panqueque con manjar.",
+    "precio": 2400,
+    "imagen": "/img/mini_panqueque.jpg",
+    "tipo": "Pastel Individual"
+  },
+  {
+    "nombre": "Tartaleta de Nuez",
+    "descripcion": "Tartaleta individual con nueces caramelizadas.",
+    "precio": 2000,
+    "imagen": "/img/tarta_nuez.jpg",
+    "tipo": "Tartaleta"
+  },
+  {
+    "nombre": "Tartaleta de Ganache",
+    "descripcion": "Tartaleta de chocolate con ganache.",
+    "precio": 2000,
+    "imagen": "/img/tarta_ganache.jpg",
+    "tipo": "Tartaleta"
+  },
+  {
+    "nombre": "Tartaleta de Frutas",
+    "descripcion": "Tartaleta con frutas frescas de estación.",
+    "precio": 2000,
+    "imagen": "/img/tarta_frutas.jpg",
+    "tipo": "Tartaleta"
+  },
+  {
+    "nombre": "Pie de Limón Grande",
+    "descripcion": "Pie de limón familiar con merengue flameado.",
+    "precio": 15000,
     "imagen": "/img/pielimon.jpg",
     "tipo": "Pie"
   },
   {
-    "nombre": "Brazo de Reina",
-    "descripcion": "Pionono enrollado con manjar casero, espolvoreado con azúcar flor.",
-    "precio": 9500,
-    "imagen": "/img/brazo.jpg",
-    "tipo": "Brazo"
+    "nombre": "Pie de Limón Individual",
+    "descripcion": "Porción individual de pie de limón.",
+    "precio": 2000,
+    "imagen": "/img/mini_pielimon.jpg",
+    "tipo": "Pie"
   },
   {
-    "nombre": "Torta Panqueque Naranja",
-    "descripcion": "Capas de panqueque delgado con manjar y mermelada de naranja.",
-    "precio": 18500,
-    "imagen": "/img/panquequenaranja.jpg",
-    "tipo": "Panqueque"
+    "nombre": "Kuchen Manzana Grande",
+    "descripcion": "Kuchen tradicional de manzana.",
+    "precio": 15000,
+    "imagen": "/img/kuchen_manzana.jpg",
+    "tipo": "Kuchen"
   },
   {
-    "nombre": "Torta Moka",
-    "descripcion": "Delicado sabor a café, bizcocho húmedo con crema moka.",
-    "precio": 16500,
-    "imagen": "/img/moka.jpg",
-    "tipo": "Torta"
+    "nombre": "Kuchen Manzana Individual",
+    "descripcion": "Porción individual de kuchen de manzana.",
+    "precio": 2000,
+    "imagen": "/img/kuchen_manzana_ind.jpg",
+    "tipo": "Kuchen"
   },
   {
-    "nombre": "Pastel de Hojaldre",
-    "descripcion": "Capas crujientes con relleno de crema pastelera.",
-    "precio": 10000,
-    "imagen": "/img/hojaldre.jpg",
-    "tipo": "Pastel"
+    "nombre": "Kuchen Durazno Grande",
+    "descripcion": "Kuchen de duraznos frescos.",
+    "precio": 15000,
+    "imagen": "/img/kuchen_durazno.jpg",
+    "tipo": "Kuchen"
   },
   {
-    "nombre": "Brownies Caseros",
-    "descripcion": "Porciones individuales de brownie húmedo con nuez.",
-    "precio": 3000,
-    "imagen": "/img/brownie.jpg",
-    "tipo": "Pastel"
+    "nombre": "Kuchen Durazno Individual",
+    "descripcion": "Porción de kuchen de durazno.",
+    "precio": 2000,
+    "imagen": "/img/kuchen_durazno_ind.jpg",
+    "tipo": "Kuchen"
+  },
+  {
+    "nombre": "Kuchen Chocolate Blanco Grande",
+    "descripcion": "Kuchen con cobertura de chocolate blanco.",
+    "precio": 15000,
+    "imagen": "/img/kuchen_chocoblanco.jpg",
+    "tipo": "Kuchen"
+  },
+  {
+    "nombre": "Kuchen Chocolate Blanco Individual",
+    "descripcion": "Porción de kuchen de chocolate blanco.",
+    "precio": 2000,
+    "imagen": "/img/kuchen_chocoblanco_ind.jpg",
+    "tipo": "Kuchen"
+  },
+  {
+    "nombre": "Tiramisú Grande",
+    "descripcion": "Clásico postre italiano con café y mascarpone.",
+    "precio": 17000,
+    "imagen": "/img/tiramisu.jpg",
+    "tipo": "Tiramisú"
+  },
+  {
+    "nombre": "Tiramisú Individual",
+    "descripcion": "Porción individual de tiramisú.",
+    "precio": 2200,
+    "imagen": "/img/tiramisu_ind.jpg",
+    "tipo": "Tiramisú"
+  },
+  {
+    "nombre": "Cheesecake Grande",
+    "descripcion": "Pastel de queso al estilo casero.",
+    "precio": 17000,
+    "imagen": "/img/cheesecake.jpg",
+    "tipo": "Cheesecake"
+  },
+  {
+    "nombre": "Cheesecake Individual",
+    "descripcion": "Porción individual de cheesecake.",
+    "precio": 2200,
+    "imagen": "/img/cheesecake_ind.jpg",
+    "tipo": "Cheesecake"
   }
 ]

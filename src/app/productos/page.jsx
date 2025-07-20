@@ -10,9 +10,10 @@ const tipos = [
   "Kuchen",
   "Cheesecake",
   "Pie",
-  "Pastel",
-  "Brazo",
-  "Panqueque"
+  "Tartaleta",
+  "Pastel Individual",
+  "Tiramisú",
+  "Vitrina"
 ];
 
 export default function Catalogo() {
