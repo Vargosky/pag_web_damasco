@@ -46,7 +46,7 @@ export default function Home() {
           </motion.p>
 
           <motion.a
-            href="https://wa.me/56912345678"
+            href="https://wa.me/56948995994"
             className="bg-[#fff0f5] text-[#6d2e46] font-semibold px-6 py-3 rounded-full shadow-lg hover:bg-[#fde0e9] transition"
             whileHover={{ scale: 1.05 }}
             whileTap={{ scale: 0.95 }}

@@ -21,17 +21,17 @@ export default function Navbar() {
         </button>
         <nav className="hidden md:flex space-x-6 text-sm md:text-base">
           <a href="/" className="text-[#6d2e46] hover:text-white transition">Inicio</a>
-          <a href="#nosotros" className="text-[#6d2e46] hover:text-white transition">Nosotros</a>
+          <a href="/nosotros" className="text-[#6d2e46] hover:text-white transition">Nosotros</a>
           <a href="/productos" className="text-[#6d2e46] hover:text-white transition">Productos</a>
-          <a href="#contacto" className="text-[#6d2e46] hover:text-white transition">Contacto</a>
+          <a href="/contacto" className="text-[#6d2e46] hover:text-white transition">Contacto</a>
         </nav>
       </div>
       {menuOpen && (
         <div className="md:hidden px-4 pb-4 space-y-2 bg-[#fff0f5]">
           <a href="/" className="block text-[#6d2e46] hover:text-white">Inicio</a>
-          <a href="#nosotros" className="block text-[#6d2e46] hover:text-white">Nosotros</a>
+          <a href="/nosotros" className="block text-[#6d2e46] hover:text-white">Nosotros</a>
           <a href="/productos" className="block text-[#6d2e46] hover:text-white">Productos</a>
-          <a href="#contacto" className="block text-[#6d2e46] hover:text-white">Contacto</a>
+          <a href="/contacto" className="block text-[#6d2e46] hover:text-white">Contacto</a>
         </div>
       )}
     </header>
