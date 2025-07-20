@@ -14,9 +14,12 @@ export default function Home() {
           src="/img/f1.png"
           alt="Pastelería Damasco"
           fill
-          className="object-cover z-0 scale-100"
+          className="object-cover z-0"
           priority
+          placeholder="blur"
+          blurDataURL="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQIW2NgYGBgAAAABAABJzQnCgAAAABJRU5ErkJggg=="
         />
+
 
 
         {/* Capa oscura */}
