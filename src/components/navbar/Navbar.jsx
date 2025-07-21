@@ -12,9 +12,9 @@ export default function Navbar() {
   return (
     <header className="fixed top-0 left-0 w-full z-30 bg-[#F29325] shadow-md">
       <div className="max-w-6xl mx-auto px-4 py-3 flex justify-between items-center">
-        <h1 className="text-xl md:text-2xl font-bold text-[#6d2e46]">
+        <h2 className="text-xl md:text-2xl font-bold text-[#6d2e46]">
           <Link href="/">Pastelería Damasco</Link>
-        </h1>
+        </h2>
         <button onClick={() => setMenuOpen(!menuOpen)} className="md:hidden focus:outline-none">
           <svg
             className="w-6 h-6 text-[#6d2e46]"
