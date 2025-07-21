@@ -24,6 +24,7 @@ export default function Home() {
 
 
 
+
         {/* Capa oscura */}
         <div className="absolute inset-0 bg-gradient-to-b from-[#00000055] to-[#00000088] z-10" />
 
