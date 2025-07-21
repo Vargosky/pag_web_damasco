@@ -10,15 +10,17 @@ export default function Home() {
 
       {/* Imagen de fondo */}
       <div className="relative h-screen w-full">
-        <Image
-          src="/img/f1.png"
-          alt="Pastelería Damasco"
-          fill
-          className="object-cover z-0"
-          priority
-          placeholder="blur"
-          blurDataURL="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQIW2NgYGBgAAAABAABJzQnCgAAAABJRU5ErkJggg=="
-        />
+        <div className="absolute top-0 left-0 w-full h-screen z-0">
+          <Image
+            src="/img/f1.png"
+            alt="Pastelería Damasco"
+            fill
+            className="object-cover"
+            priority
+            placeholder="blur"
+            blurDataURL="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQIW2NgYGBgAAAABAABJzQnCgAAAABJRU5ErkJggg=="
+          />
+        </div>
 
 
 
