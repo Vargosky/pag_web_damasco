@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 
 export default function Nosotros() {
   return (
-    <div>
+    <div className="overflow-x-hidden">
       {/* Sección 1 - Historia inicial */}
       <section id="nosotros" className="bg-[#fff0f5] h-screen flex items-center px-4">
         <div className="max-w-6xl mx-auto grid md:grid-cols-2 gap-10 items-center">
