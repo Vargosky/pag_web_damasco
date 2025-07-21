@@ -26,6 +26,9 @@ export const metadata = {
   authors: [{ name: "Leandro", url: "einsoft.cl" }],
   creator: "Leandro",
   publisher: "Leandro",
+  other: {
+    "msvalidate.01": "DC8B98D872378FDCB24B26EF9103DC7B",
+  },
 };
 
 export default function RootLayout({ children }) {
