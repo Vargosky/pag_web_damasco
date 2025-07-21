@@ -1,12 +1,5 @@
 [
   {
-    "nombre": "Torta Trozo",
-    "descripcion": "Porción individual de cualquiera de nuestras tortas.",
-    "precio": 2500,
-    "imagen": "/img/trozotorta.jpg",
-    "tipo": "Torta"
-  },
-  {
     "nombre": "Torta Panqueque",
     "descripcion": "Capas de panqueque rellenas con manjar y crema.",
     "precio": 25000,
@@ -56,6 +49,13 @@
     "tipo": "Torta"
   },
   {
+    "nombre": "Torta Trozo",
+    "descripcion": "Porción individual de cualquiera de nuestras tortas.",
+    "precio": 2500,
+    "imagen": "/img/tortamilhojas.png",
+    "tipo": "Pastel Individual"
+  },
+  {
     "nombre": "Pastel Individual Milhoja",
     "descripcion": "Porción individual de milhoja con manjar.",
     "precio": 2400,
@@ -80,14 +80,14 @@
     "nombre": "Tartaleta de Nuez",
     "descripcion": "Tartaleta individual con nueces caramelizadas.",
     "precio": 2000,
-    "imagen": "/img/tarta_nuez.jpg",
+    "imagen": "/img/tartaleta-ind-nuez.png",
     "tipo": "Tartaleta"
   },
   {
     "nombre": "Tartaleta de Ganache",
     "descripcion": "Tartaleta de chocolate con ganache.",
     "precio": 2000,
-    "imagen": "/img/tarta_ganache.jpg",
+    "imagen": "/img/tartaleta-ind-ganache.png",
     "tipo": "Tartaleta"
   },
   {
@@ -108,14 +108,21 @@
     "nombre": "Pie de Limón Individual",
     "descripcion": "Porción individual de pie de limón.",
     "precio": 2000,
-    "imagen": "/img/mini_pielimon.jpg",
+    "imagen": "/img/pie_individual.png",
     "tipo": "Pie"
   },
   {
     "nombre": "Kuchen Manzana Grande",
     "descripcion": "Kuchen tradicional de manzana.",
     "precio": 15000,
-    "imagen": "/img/kuchen_manzana.jpg",
+    "imagen": "/img/manzana.png",
+    "tipo": "Kuchen"
+  },
+  {
+    "nombre": "Kuchen Sureño Grande",
+    "descripcion": "Kuchen tradicional de sureño.",
+    "precio": 15000,
+    "imagen": "/img/sureno.png",
     "tipo": "Kuchen"
   },
   {
