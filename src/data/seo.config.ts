@@ -37,6 +37,9 @@ const metadata = {
     other: {
       "msvalidate.01": "DC8B98D872378FDCB24B26EF9103DC7B",
     },
+    icons: {
+      icon: "/favicon.ico",
+    },
   };
   
   export default { metadata };
